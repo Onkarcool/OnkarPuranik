@@ -1,39 +1,16 @@
-This is great
+<div class="row" style="height:500px">
+  <div class="column" style="width:50%">
+    <img src="images/profile_photo.jpg" alt="Avatar" style="width:300px"><br>
+    <br><p>
+    Mobile: +91 7767023176<br>
+    Email:  onkar.orp@gmail.com</p>
+  </div>
+  <div class="column" style="width:50%">
+     <br>
+    1. <a href="https://docs.google.com/spreadsheets/d/1E4wVkF6HEbdpdCLIyLM-WlhoCopyZ5rzxHDP6JVyJTY/edit?usp=sharing">Projects Summary</a><br><br>
+    2. <a href="https://www.linkedin.com/in/ajinkyapathak">LinkedIn Profile</a> <br><br>
+    3. <a href="https://github.com/ajinkyapathak?tab=repositories">GIT</a><br><br>
+    4. <a href="https://drive.google.com/open?id=1IMpl9nSbts2TKXDtkHF43UsFW6cHB3Nk">Resume</a>
+  </div>
+</div>
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Onkarcool/OnkarPuranik/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Onkarcool/OnkarPuranik/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
