@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Onkar Puranik
+# logo: "/images/my_pic.jpg?raw=true" # your photo (or logo) here
+# p: ""
+# # description: > # your text below (remove <br> elements if you don't need line breaks)
+# #  First description 
+# #  <br><br>
+# #  Second description 
+# #  <br><br>
+# #  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+theme: jekyll-theme-midnight
+google_analytics: UA-152730862-1 # your Google Analytics tracking ID here
